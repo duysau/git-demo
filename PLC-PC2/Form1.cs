@@ -61,6 +61,7 @@ namespace PLC_PC2
             else
                 MessageBox.Show("Cannot connect to PLC!");
             //alo alo
+            //sdsdsd
         }
     }
 }
